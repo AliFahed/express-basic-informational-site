@@ -1,0 +1,27 @@
+{
+  "name": "express-basic-informational-site",
+  "version": "1.0.0",
+  "description": "This is my first project using Express.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliFahed/express-basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliFahed/express-basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/AliFahed/express-basic-informational-site#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
